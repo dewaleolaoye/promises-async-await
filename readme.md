@@ -1,9 +1,10 @@
-## Learning Promises, Async and Await
+# Learning Promises, Async and Await
 
 I want to know JS well.
 lol
 React is paused for now...
 
-# Resources I use
+## Resources I use
 
 https://codeburst.io/javascript-learn-promises-f1eaa00c5461
+https://developers.google.com/web/fundamentals/primers/promises
